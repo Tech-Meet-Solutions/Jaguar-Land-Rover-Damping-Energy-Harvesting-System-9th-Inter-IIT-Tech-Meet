@@ -7,7 +7,7 @@ As the world is shifting towards renewable energies, low carbon foot prints, the
 
 
 ## The Team
-![alt text] (./JLR-IITB-team.jpg)
+![alt text](./JLR-IITB-team.jpg)
 
 ## Team Members
 - [Manthan Dhisale](https://github.com/ManthanND) *(Team Lead)* 
