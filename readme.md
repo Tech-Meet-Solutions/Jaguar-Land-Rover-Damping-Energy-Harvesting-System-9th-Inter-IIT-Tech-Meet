@@ -7,7 +7,7 @@ As the world is shifting towards renewable energies, low carbon foot prints, the
 
 
 ## The Team
-![alt text] (https://github.com/Tech-Meet-Solutions/Jaguar-Land-Rover-Damping-Energy-Harvesting-System-9th-Inter-IIT-Tech-Meet/blob/main/JLR-IITB-team.jpg)
+![alt text] (./JLR-IITB-team.jpg)
 
 ## Team Members
 - [Manthan Dhisale](https://github.com/ManthanND) *(Team Lead)* 
