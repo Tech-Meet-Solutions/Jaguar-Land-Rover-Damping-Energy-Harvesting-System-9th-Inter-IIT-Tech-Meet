@@ -11,14 +11,13 @@ As the world is shifting towards renewable energies, low carbon foot prints, the
 Special thanks to Anirudh Mittal, General Secretary - Technical Affairs, IIT Bombay (2020-21), and Aryan Agal and Manthan Dhisale as the Contingent Leaders of the IIT Bombay Contingent, Bombay76, for the 9th Inter-IIT Tech Meet.
 
 ## Team Members
-
 - [Manthan Dhisale](https://github.com/ManthanND) *(Team Lead)* 
 - [Varad Mane]
 - [Sumit Sureka]
 - [Prashant Shettigar] 
 - [Yashwardhan Bahure]
 
-The contingent won Gold Medal 🥇 along with securing Rank 1 in the Jaguar Land Rover Problem Statement in Inter IIT Tech Meet 9.0.
+### The contingent won Gold Medal 🥇 along with securing Rank 1 in the Jaguar Land Rover Problem Statement in Inter IIT Tech Meet 9.0.
 
 
 
