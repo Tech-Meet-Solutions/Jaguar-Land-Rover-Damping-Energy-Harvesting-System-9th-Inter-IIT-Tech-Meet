@@ -12,10 +12,10 @@ Special thanks to Anirudh Mittal, General Secretary - Technical Affairs, IIT Bom
 
 ## Team Members
 - [Manthan Dhisale](https://github.com/ManthanND) *(Team Lead)* 
-- [Varad Mane]
-- [Sumit Sureka]
-- [Prashant Shettigar] 
-- [Yashwardhan Bahure]
+- Varad Mane
+- Sumit Sureka
+- Prashant Shettigar
+- Yashwardhan Bahure
 
 ### The contingent won Gold Medal 🥇 along with securing Rank 1 in the Jaguar Land Rover Problem Statement in Inter IIT Tech Meet 9.0.
 
