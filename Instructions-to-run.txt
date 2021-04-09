@@ -1,0 +1,4 @@
+Steps to run the model
+1. Run the "RoadProfiles_Inter_IIT.mat" MATLAB file
+2. Run the "road_profile_generator.mat" MATLAB file
+2. Run the "Triboelectric.slx" Simulink file
