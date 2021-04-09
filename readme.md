@@ -11,10 +11,10 @@ As the world is shifting towards renewable energies, low carbon foot prints, the
 
 ## Team Members
 - [Manthan Dhisale](https://github.com/ManthanND) *(Team Lead)* 
-- Varad Mane
-- Sumit Sureka
-- Prashant Shettigar
-- Yashwardhan Bahure
+- [Varad Mane](https://github.com/vrdmn7721)
+- [Sumit Sureka](https://github.com/SumitSureka)
+- [Prashant Shettigar](https://github.com/prashants31)
+- [Yashwardhan Bahure](https://github.com/yash-217)
 
 Special thanks to Anirudh Mittal, General Secretary - Technical Affairs, IIT Bombay (2020-21), and Aryan Agal and Manthan Dhisale as the Contingent Leaders of the IIT Bombay Contingent, Bombay76, for the 9th Inter-IIT Tech Meet.
 
